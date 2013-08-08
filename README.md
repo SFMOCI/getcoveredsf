@@ -9,7 +9,7 @@ Instructions (command line)
 	gem install jekyll
 
 2. Clone this repo into a folder
-	git clone https://github.com/rodrigodavies/enrollsf.git
+	git clone https://github.com/sfmoci/getcoveredsf.git
 
 3. From the repo folder, type 
 	jekyll serve --watch
